@@ -3,6 +3,7 @@ AR Knickknack project for CS5136 at the University of Cincinnati
 
 <img width="694" height="1234" alt="image" src="https://github.com/user-attachments/assets/63e4c731-29cb-4dce-bb90-86b88cc41dd3" />
 
+## DEMO
 Take a look at the knickknack scene yourself at this link!
 
 https://brown5lc.github.io/ar-knickknack-web-viewer/
