@@ -97,3 +97,28 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Ignoring large assets that are not needed in version control
+/Assets/BarkPoplar001/
+#/Assets/"BarkPoplar001 1"
+/Assets/DirtWindowStains005/
+/Assets/Grass/
+/Assets/Library/
+/Assets/Materials/
+/Assets/Penny/
+/Assets/"Pine Tree"/
+
+# Ignoring Polligon Textures
+/Assets/Poliigon_CeramicPotteryGlazed_10828/
+/Assets/Poliigon_CeramicPotteryGlazed_10861/
+/Assets/Poliigon_ConcreteWorn_8690/
+/Assets/Poliigon_FoodCoffee_10827/
+/Assets/Poliigon_FoodGlazeStrawberry_10739/
+/Assets/Poliigon_FoodPastryDonut_10737/
+/Assets/Poliigon_PlasterPainted_7664/
+/Assets/Poliigon_StoneQuartzite_8060/
+/Assets/Poliigon_WoodRoofShingle_7834/
+/Assets/RammedEarth018/
+
+# Ignoring Vuforia (too big)
+/Packages/com.ptc.vuforia.engine-11.4.4.tgz
