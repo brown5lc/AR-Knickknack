@@ -63,8 +63,32 @@ The pine trees also contribute to the nature theme. I thought it would look too 
 
 ## Process
 
+To make this knickkacnk I started out thinking about places that would be significant to me. I moved away from my home town 9 years ago, and I still miss it, so I thought it would be a nice choice. The Heublein tower stood out to me as a recognizable local landmark, and I thought it would be fairly easy to model. 
+
+Once I decided the location and main subject, I had to decide on the overall composition. My home town has a lot of nature, so I know I wanted to rely on a nature theme. Eventually, I had a rough mockup of what I thought would look good. 
+
+<img/>
+
+I started by finding the 3 online models, then I spent quite a long time modeling the tower itself, and finally I modeled the second tree. 
+
 ## Challenges and Future Work
+
+There were many challenges along the way, I would say the most significant was texturing. I had never really done texturing before, and it was an intimidating proccess. After making my own models, I thought it would be as easy as applying a texture, however, you have to correctly UV unwrap models in order for textures to apply correctly. 
+
+<insert unwrapped tower here> 
+
+And even once I had unwrapped, the textures were complex and had multiple layers that needed to be connected in a node menu. 
+
+After all this complexity, when I took my models from Blender to Unity, the textures dissapeared... This was very frustrating. I found out that unless you bake a model, the textures will not be included when exporting, and they need to be reapplied once in Unity. 
+
+Thankfully, although tedious, it wasn't as complicated in Unity, after working with the textures in Blender. 
 
 ## Use of AI and Collaboration
 
+I did use AI to help guide me through using Blender and Unity when I could not find the information I needed easily through tutorials. 
+
+I also worked with classmates to support one another whenever one of us was having an issue. 
+
 ## Video Demo
+
+
