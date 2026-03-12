@@ -45,6 +45,12 @@ I adjusted the color of the leaves using a "Color Ramp" node in blender, to make
 
 I created two instances of this model, to help fill out the scene. One instance had slightly redder leaves, while the other has oranger leaves. 
 
+<img width="979" height="636" alt="Screenshot 2026-03-01 191356" src="https://github.com/user-attachments/assets/ccde4f10-10bb-426e-9466-251c1041a0d6" />
+
+<img width="1643" height="1178" alt="Screenshot 2026-03-01 193320" src="https://github.com/user-attachments/assets/29439b5e-1630-4494-bbf5-3986c73ea364" />
+
+<img width="2539" height="1374" alt="image" src="https://github.com/user-attachments/assets/16455628-d888-40a2-8180-05baf17fa657" />
+
 ### Pine Tree Model:
 The Pine Tree model was another model I found for free on Sketchfab, created by user Andriy Shekh. 
 
