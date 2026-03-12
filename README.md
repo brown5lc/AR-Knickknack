@@ -16,6 +16,8 @@ My knickknack has 5 unique models: Heublein Tower, a flock of birds, a U.S. penn
 ### Heublein Tower Model: 
 The Heublein Tower model was created by scratch by me, using photos of the tower as visual reference, I went through an iterative design process that started out roughly blocking out the correct shapes, and gradually added finer and finer details. I likely added more detail to the model than strictly necessary, since in practical application the model will be seen as quite small, so small details like the bell in the tower, and the frames on the windows, could easily go unnoticed. The tower is the center piece of the whole scene that everything else relates to. 
 
+<img width="1762" height="1125" alt="Screenshot 2026-02-27 202030" src="https://github.com/user-attachments/assets/3d95bdaa-884c-4c4f-acc5-f2c4006c19da" /> <img width="1292" height="1069" alt="Screenshot 2026-02-27 230956 - Copy" src="https://github.com/user-attachments/assets/5e796909-3d4f-4c8e-b81f-f700c6f7119f" /> <img width="745" height="981" alt="Screenshot 2026-02-28 205409" src="https://github.com/user-attachments/assets/0779ffec-f585-46a8-aaee-de2871b8063a" />
+
 ### Birds Model: 
 The flying birds model was one that I found on Sketchfab for free, made by user "Zacxophone". 
 
