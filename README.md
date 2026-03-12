@@ -3,6 +3,8 @@ AR Knickknack project for CS5136 at the University of Cincinnati
 
 <img width="694" height="1234" alt="image" src="https://github.com/user-attachments/assets/63e4c731-29cb-4dce-bb90-86b88cc41dd3" />
 
+![shorter_demo](https://github.com/user-attachments/assets/458bffca-5267-4437-9a44-22661edaeab1)
+
 ## DEMO
 Take a look at the knickknack scene yourself at this link!
 
