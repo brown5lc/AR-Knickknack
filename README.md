@@ -79,6 +79,8 @@ There were many challenges along the way, I would say the most significant was t
 
 And even once I had unwrapped, the textures were complex and had multiple layers that needed to be connected in a node menu. 
 
+<img width="2046" height="1209" alt="image" src="https://github.com/user-attachments/assets/957c44b0-02d0-499e-afce-46566392ca68" />
+
 After all this complexity, when I took my models from Blender to Unity, the textures dissapeared... This was very frustrating. I found out that unless you bake a model, the textures will not be included when exporting, and they need to be reapplied once in Unity. 
 
 Thankfully, although tedious, it wasn't as complicated in Unity, after working with the textures in Blender. 
