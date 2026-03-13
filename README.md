@@ -67,7 +67,7 @@ To make this knickkacnk I started out thinking about places that would be signif
 
 Once I decided the location and main subject, I had to decide on the overall composition. My home town has a lot of nature, so I know I wanted to rely on a nature theme. Eventually, I had a rough mockup of what I thought would look good. 
 
-<img/>
+<img width="609" height="849" alt="Screenshot 2026-03-01 132027" src="https://github.com/user-attachments/assets/f189528e-3b40-4814-868a-6a5b342ff950" />
 
 I started by finding the 3 online models, then I spent quite a long time modeling the tower itself, and finally I modeled the second tree. 
 
@@ -75,7 +75,7 @@ I started by finding the 3 online models, then I spent quite a long time modelin
 
 There were many challenges along the way, I would say the most significant was texturing. I had never really done texturing before, and it was an intimidating proccess. After making my own models, I thought it would be as easy as applying a texture, however, you have to correctly UV unwrap models in order for textures to apply correctly. 
 
-<insert unwrapped tower here> 
+<img width="2094" height="1316" alt="image" src="https://github.com/user-attachments/assets/5398b638-01f7-4712-8614-10ff7abc3cf8" />
 
 And even once I had unwrapped, the textures were complex and had multiple layers that needed to be connected in a node menu. 
 
@@ -89,6 +89,11 @@ I did use AI to help guide me through using Blender and Unity when I could not f
 
 I also worked with classmates to support one another whenever one of us was having an issue. 
 
-## Video Demo
+## Video
+
+https://github.com/user-attachments/assets/88888914-1a7e-4407-9505-e7c1ed02c2f9
+
+ Demo
+
 
 
